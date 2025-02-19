@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\bin\Debug\net9.0\Final-Project-Trading-Journal.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\bin\Debug\net9.0\Final-Project-Trading-Journal.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\bin\Debug\net9.0\Final-Project-Trading-Journal.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\bin\Debug\net9.0\Final-Project-Trading-Journal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\bin\Debug\net9.0\Final-Project-Trading-Journal.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\refint\Final-Project-Trading-Journal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\Final-Project-Trading-Journal.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Final-Project-Trading-Journal\obj\Debug\net9.0\ref\Final-Project-Trading-Journal.dll
